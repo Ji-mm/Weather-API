@@ -1,1 +1,1 @@
-# This program creates an API to generate weather past weather data
+# This program creates an API to generate past weather data
